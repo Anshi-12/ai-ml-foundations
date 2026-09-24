@@ -19,12 +19,12 @@ Prerequisite refresher for the course. Each notebook below is **cloned, executed
 
 | # | Topic | Notebook | Video |
 |---|-------|----------|-------|
-| 1 | Introduction to Python | [open](https://github.com/Anshi-12/ai-ml-foundations/blob/main/notebooks/final_Intro_to_Python_for_Machine_Learning.ipynb) | 🎥 _paste link_ |
-| 2 | Introduction to NumPy | [open](https://github.com/Anshi-12/ai-ml-foundations/blob/main/notebooks/final_numpy_foundations_for_deep_learning.ipynb) | 🎥 _paste link_ |
-| 3 | Introduction to pandas | [open](https://github.com/Anshi-12/ai-ml-foundations/blob/main/notebooks/final_pandas_zero_to_hero.ipynb) | 🎥 _paste link_ |
-| 4 | Introduction to Matplotlib | [open](https://github.com/Anshi-12/ai-ml-foundations/blob/main/notebooks/final_matplotlib_zero_to_hero.ipynb) | 🎥 _paste link_ |
-| 5 | Basic Linear Algebra | [open](https://github.com/Anshi-12/ai-ml-foundations/blob/main/notebooks/final_intro_to_linear_algebra_zero_to_hero_for_ml.ipynb) | 🎥 _paste link_ |
-| 6 | Calculus I | [open] (https://github.com/Anshi-12/ai-ml-foundations/blob/main/notebooks/final_intro_to_calculus_zero_to_hero_for_ml.ipynb)| 🎥 _paste link_ |
+| 1 | Introduction to Python | [open](https://github.com/Anshi-12/ai-ml-foundations/blob/main/notebooks/final_Intro_to_Python_for_Machine_Learning.ipynb) | 🎥 _link_ |
+| 2 | Introduction to NumPy | [open](https://github.com/Anshi-12/ai-ml-foundations/blob/main/notebooks/final_numpy_foundations_for_deep_learning.ipynb) | 🎥 _link_ |
+| 3 | Introduction to pandas | [open](https://github.com/Anshi-12/ai-ml-foundations/blob/main/notebooks/final_pandas_zero_to_hero.ipynb) | 🎥 _link_ |
+| 4 | Introduction to Matplotlib | [open](https://github.com/Anshi-12/ai-ml-foundations/blob/main/notebooks/final_matplotlib_zero_to_hero.ipynb) | 🎥 _link_ |
+| 5 | Basic Linear Algebra | [open](https://github.com/Anshi-12/ai-ml-foundations/blob/main/notebooks/final_intro_to_linear_algebra_zero_to_hero_for_ml.ipynb) | 🎥 _link_ |
+| 6 | Calculus I | [open](https://github.com/Anshi-12/ai-ml-foundations/blob/main/notebooks/final_intro_to_calculus_zero_to_hero_for_ml.ipynb)| 🎥 _link_ |
 
 ---
 
