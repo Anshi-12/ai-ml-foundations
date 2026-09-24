@@ -19,7 +19,7 @@ Prerequisite refresher for the course. Each notebook below is **cloned, executed
 
 | # | Topic | Notebook | Video |
 |---|-------|----------|-------|
-| 1 | Introduction to Python | `[open](https://github.com/Anshi-12/ai-ml-foundations/blob/main/notebooks/final_Intro_to_Python_for_Machine_Learning.ipynb)` | 🎥 _paste link_ |
+| 1 | Introduction to Python | [open](https://github.com/Anshi-12/ai-ml-foundations/blob/main/notebooks/final_Intro_to_Python_for_Machine_Learning.ipynb) | 🎥 _paste link_ |
 | 2 | Introduction to NumPy | `notebooks/02_intro_numpy.ipynb` | 🎥 _paste link_ |
 | 3 | Introduction to pandas | `notebooks/03_intro_pandas.ipynb` | 🎥 _paste link_ |
 | 4 | Introduction to Matplotlib | `notebooks/04_intro_matplotlib.ipynb` | 🎥 _paste link_ |
